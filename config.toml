@@ -1,0 +1,164 @@
+baseURL = "/"
+title = "Government Services Documentation"
+theme = "beautifulhugo"
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[params]
+  commit = false
+  rss = false
+  comments = false
+  readingTime = false
+  wordCount = false
+  hideAuthor = true
+  hideDate = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Certificates"
+    weight = 2
+    identifier = "certificates"
+
+  [[menu.main]]
+    name = "Download Income Certificate Online"
+    url = "/certificates/download-income-certificate-online/"
+    parent = "certificates"
+    weight = 2
+
+  [[menu.main]]
+    name = "Download Caste Certificate Online"
+    url = "/certificates/download-caste-certificate-online/"
+    parent = "certificates"
+    weight = 3
+
+  [[menu.main]]
+    name = "Apply for OBC Certificate Online"
+    url = "/certificates/apply-for-obc-certificate-online/"
+    parent = "certificates"
+    weight = 4
+
+  [[menu.main]]
+    name = "Download Death Certificate Online"
+    url = "/certificates/download-death-certificate-online/"
+    parent = "certificates"
+    weight = 6
+
+  [[menu.main]]
+    name = "Apply for Marriage Certificate Online"
+    url = "/certificates/apply-for-marriage-certificate-online/"
+    parent = "certificates"
+    weight = 8
+
+  [[menu.main]]
+    name = "Apply for First-Class Graduate Certificate"
+    url = "/certificates/apply-for-first-class-graduate-certificate/"
+    parent = "certificates"
+    weight = 9
+
+  [[menu.main]]
+    name = "Ration Card Services"
+    weight = 13
+    identifier = "ration-card-services"
+
+  [[menu.main]]
+    name = "Apply for New Ration Card Online"
+    url = "/ration-card-services/apply-for-new-ration-card-online/"
+    parent = "ration-card-services"
+    weight = 13
+
+  [[menu.main]]
+    name = "Verify Mobile Number on Ration Card"
+    url = "/ration-card-services/verify-mobile-number-on-ration-card/"
+    parent = "ration-card-services"
+    weight = 14
+
+  [[menu.main]]
+    name = "Remove Family Member from Ration Card"
+    url = "/ration-card-services/remove-family-member-from-ration-card/"
+    parent = "ration-card-services"
+    weight = 15
+
+  [[menu.main]]
+    name = "Reactivate Deleted Ration Card"
+    url = "/ration-card-services/reactivate-deleted-ration-card/"
+    parent = "ration-card-services"
+    weight = 16
+
+  [[menu.main]]
+    name = "Download Ration Card Online"
+    url = "/ration-card-services/download-ration-card-online/"
+    parent = "ration-card-services"
+    weight = 18
+
+  [[menu.main]]
+    name = "PAN Card Services"
+    weight = 21
+    identifier = "pan-card-services"
+
+  [[menu.main]]
+    name = "Retrieve Lost or Forgotten PAN Number"
+    url = "/pan-card-services/retrieve-lost-or-forgotten-pan-number/"
+    parent = "pan-card-services"
+    weight = 21
+
+  [[menu.main]]
+    name = "Get e-PAN"
+    url = "/pan-card-services/get-e-pan/"
+    parent = "pan-card-services"
+    weight = 22
+
+  [[menu.main]]
+    name = "Reprint or Update PAN Card"
+    url = "/pan-card-services/reprint-or-update-pan-card/"
+    parent = "pan-card-services"
+    weight = 27
+
+  [[menu.main]]
+    name = "Welfare Schemes"
+    weight = 50
+    identifier = "welfare-schemes"
+
+  [[menu.main]]
+    name = "Apply for Pension Online"
+    url = "/welfare-schemes/apply-for-pension-online/"
+    parent = "welfare-schemes"
+    weight = 50
+
+  [[menu.main]]
+    name = "Digital Services"
+    weight = 52
+    identifier = "digital-services"
+
+  [[menu.main]]
+    name = "Download and Use DigiLocker"
+    url = "/digital-services/download-and-use-digilocker/"
+    parent = "digital-services"
+    weight = 52
+
+  [[menu.main]]
+    name = "Passport Services"
+    weight = 54
+    identifier = "passport-services"
+
+  [[menu.main]]
+    name = "Apply for a Passport"
+    url = "/passport-services/apply-for-a-passport/"
+    parent = "passport-services"
+    weight = 54
+
+  [[menu.main]]
+    name = "Government Records / Corrections"
+    weight = 46
+    identifier = "government-records-corrections"
+
+  [[menu.main]]
+    name = "Correct Date of Birth in School"
+    url = "/government-records-corrections/correct-date-of-birth-in-school/"
+    parent = "government-records-corrections"
+    weight = 48
+
