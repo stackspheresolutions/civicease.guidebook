@@ -1,6 +1,6 @@
 ---
 title: "How to Download Income Certificate Online"
-date: 2025-06-30T00:00:00Z
+date: 2025-07-01T00:00:00Z
 draft: false
 type: "post"
 description: "Step-by-step guide to apply for and download Income Certificate online"
@@ -16,11 +16,15 @@ Let's see how to apply for and obtain an Income Certificate online.
 
 ## Requirements
 
-- Passport size photograph
-- Ration Card
-- Aadhaar Card
-- Self-declaration form
-- Soft copies of all documents
+1. Applicant Photo
+2. Any Address Proof
+3. TIN Number and the Trade
+4. Details of Land Holdings
+5. Details of houses owned ward wise
+6. Family or Smart Card
+7. Self-Declaration of Applicant
+8. Salary Certificate(Latest Copy)
+9. PAN card
 
 ## How to Apply Online
 
@@ -48,6 +52,8 @@ Let's see how to apply for and obtain an Income Certificate online.
 A applicant can apply for an Income Certificate if they have a unique **Citizen Access Number (CAN)**. If the applicant does not have a unique CAN number, they must register for a CAN to access the Income Certificate application form.
 
 #### How to Register for CAN:
+
+![Register CAN](income-certificate-register-can.PNG)
 
 1. Click the **'Register CAN'** button to apply for CAN registration
 2. Fill in all mandatory details in the form in the prescribed format
@@ -77,7 +83,7 @@ Follow the steps below to apply for an Income Certificate online:
 1. Attach documents in the recommended file size and file types
 2. After uploading the documents, click **'Make Payment'**
 3. After uploading everything, click **'Make payment'** and proceed
-4. After clicking **'Terms and Conditions'**, click **'Make Payment'** and choose the payment method that suits you to make the payment
+4. After clicking **'Terms and Conditions'**, click **'Make Payment'** and choose the payment method that suits you to make the payment and pay Rs.60 as the application charge.
 
 ### Step 7: Download Certificate
 
@@ -85,12 +91,3 @@ Follow the steps below to apply for an Income Certificate online:
 - Using the number on it, you can download the certificate yourself after **10 days**
 
 ---
-
-## Additional Resources
-
-- [How to Apply Income Certificate Online - Vikatan](https://www.vikatan.com/news/general-news/how-to-apply-income-certificate-online)
-- [Income Certificate Tamil Nadu Guide - TESZ](https://www.tesz.in/ta/guide/income-certificate-tamil-nadu-tamil)
-
----
-
-**Publication:** Tamil Nadu Thowheed Jamaath - State Students' Wing 
