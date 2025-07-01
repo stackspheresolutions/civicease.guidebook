@@ -2,8 +2,6 @@ baseURL = "/"
 title = "Government Services Documentation"
 theme = "beautifulhugo"
 
-ignoreLogs = ['warning-goldmark-raw-html']
-
 [params]
   commit = false
   rss = false
@@ -12,6 +10,17 @@ ignoreLogs = ['warning-goldmark-raw-html']
   wordCount = false
   hideAuthor = true
   hideDate = true
+
+[languages]
+  [languages.en]
+    title = "Government Services Documentation"
+    weight = 1
+    languageName = "English"
+
+  [languages.ta]
+    title = "அரசு சேவைகள் ஆவணங்கள்"
+    weight = 2
+    languageName = "தமிழ்"
 
 [menu]
   [[menu.main]]
